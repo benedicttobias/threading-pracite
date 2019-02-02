@@ -1,0 +1,6 @@
+D:\Work and Project\GitHub\threading\threading\bin\Debug\threading.exe.config
+D:\Work and Project\GitHub\threading\threading\bin\Debug\threading.exe
+D:\Work and Project\GitHub\threading\threading\bin\Debug\threading.pdb
+D:\Work and Project\GitHub\threading\threading\obj\Debug\threading.csprojResolveAssemblyReference.cache
+D:\Work and Project\GitHub\threading\threading\obj\Debug\threading.exe
+D:\Work and Project\GitHub\threading\threading\obj\Debug\threading.pdb
